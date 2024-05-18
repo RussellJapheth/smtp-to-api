@@ -1,0 +1,13 @@
+{
+    "require": {
+        "mikecao/flight": "^2.0",
+        "vlucas/phpdotenv": "^5.5",
+        "phpmailer/phpmailer": "^6.9",
+        "rakit/validation": "^1.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
